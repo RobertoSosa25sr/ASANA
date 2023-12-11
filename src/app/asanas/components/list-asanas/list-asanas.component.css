@@ -1,0 +1,29 @@
+.foto {
+  width: 200px;
+  height: 200px;
+  padding: 1%;
+}
+
+table, td, tr{
+  text-align: center;
+  font-size: large;
+  padding: 10px;
+  border-collapse: collapse;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.table-responsive{
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.icono{
+  width: 50px;
+}
+
+.sticky-column {
+  position: sticky;
+  left: 0;
+  background-color: white;
+  z-index: 1;
+}
